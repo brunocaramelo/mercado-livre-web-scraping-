@@ -88,7 +88,7 @@ Command to Generate Json File Output:
 RUN:
     - nodejs product/by-route/generate-file/index.js [[ML_URI]]
 
-    - EXAMPLE : nodejs product/by-route/generate-file/index.js https://www.mercadolivre.com.br/premierpet-premier-super-premium-racas-especificas-shih-tzu-co-adulto-pequena-frango-75-kg-sacola-seca-unidade-1/p/MLB12017777
+EXAMPLE : nodejs product/by-route/generate-file/index.js https://www.mercadolivre.com.br/premierpet-premier-super-premium-racas-especificas-shih-tzu-co-adulto-pequena-frango-75-kg-sacola-seca-unidade-1/p/MLB12017777
 
 That execution will make a file on product/by-route/generate-file/output:
 called : 
