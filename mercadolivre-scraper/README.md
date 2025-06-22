@@ -6,15 +6,9 @@ This application has the following specifications:
 
 | Tool | Version |
 | --- | --- |
-<!-- | Docker | 28.1.1 |
-| Docker Compose | 2.32.4 |
-| Nginx | 1.27.5 | -->
 | Node JS | 22.8.0 |
 | NPX | 10.8.2 |
-<!-- | Postgre | 15.3 |
-| Sqlite (Unit Tests) | 3.46.1 |
-| Laravel Framework | 10.10 |
-| Tailwindcss  | 3.2.1 | -->
+
 
 <!-- The application is separated into the following containers
 
